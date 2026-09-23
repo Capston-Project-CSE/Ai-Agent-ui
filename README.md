@@ -40,7 +40,7 @@ A sleek dark interface where you can:
 | Framework | React 18 |
 | HTTP Client | Axios |
 | Styling | Pure CSS with animations |
-| Build Tool | Create React App |
+| Build Tool | Create react app |
 | Deployment | Vercel |
 
 
