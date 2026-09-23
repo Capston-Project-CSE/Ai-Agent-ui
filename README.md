@@ -41,6 +41,6 @@ A sleek dark interface where you can:
 | HTTP Client | Axios |
 | Styling | Pure CSS with animations |
 | Build Tool | Create react app |
-| Deployment | Vercel |
+| Deployment | Vercele|
 
 
